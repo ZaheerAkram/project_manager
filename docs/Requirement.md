@@ -4,9 +4,9 @@ We want a project management system in which User can add, remove, update and vi
 
 ## User Roles and Actions:
 
-· Project Manager – CRUD operations on project (Include Payment)
-· Collaborator – CRU operations on project (Excluding Payments)
-· Client – Track his projects progress of his project (optional)
+- Project Manager – CRUD operations on project (Include Payment)
+- Collaborator – CRU operations on project (Excluding Payments)
+- Client – Track his projects progress of his project (optional)
 
 ## Functional Requirement:
 

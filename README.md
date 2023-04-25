@@ -6,6 +6,4 @@ This project management system is expected to provide solution where User can ad
 
 ## Class Responsibility Collaborators Cards
 
-<!-- display image -->
-
 ![CRC Cards Diagram](https://raw.githubusercontent.com/IIvexII/project_manager/main/docs/CRC%20Cards.png)
